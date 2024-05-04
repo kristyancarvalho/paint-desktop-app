@@ -1,0 +1,5 @@
+node_modules/
+build/
+saved_draws/
+package-lock.json
+dists
